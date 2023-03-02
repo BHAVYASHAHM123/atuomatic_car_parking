@@ -30,4 +30,4 @@ while True:
 
     cv2.imshow("Image", img)
     cv2.setMouseCallback("Image", mouseClick)
-    cv2.waitKey(1)
+    cv2.waitKey(2)
